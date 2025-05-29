@@ -38,6 +38,8 @@ Bu proje, SQL Server veritabanı ve C# Windows Forms kullanılarak geliştirilmi
 
 - Ürün listeleme ekranı
 - Sade ve anlaşılır kullanıcı arayüzü
-👨‍🎓 Hazırlayan
--  Ad Soyad: Burak Dere
-- Öğrenci No: 234410123
+
+## 👨‍💻 Hazırlayan
+
+- **Ad Soyad:** Burak Dere  
+- **Öğrenci No:** 234410123
