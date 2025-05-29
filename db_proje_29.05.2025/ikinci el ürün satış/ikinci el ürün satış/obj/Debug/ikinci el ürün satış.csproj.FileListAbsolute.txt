@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\bin\Debug\ikinci el ürün satış.exe.config
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\bin\Debug\ikinci el ürün satış.exe
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\bin\Debug\ikinci el ürün satış.pdb
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci el ürün satış.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci_el_ürün_satış.Form1.resources
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci_el_ürün_satış.Properties.Resources.resources
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci el ürün satış.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci el ürün satış.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci el ürün satış.exe
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci el ürün satış.pdb
+C:\Users\HP\source\repos\ikinci el ürün satış\ikinci el ürün satış\obj\Debug\ikinci el ürün satış.exe.config
